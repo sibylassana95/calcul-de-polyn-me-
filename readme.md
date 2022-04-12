@@ -1,0 +1,1 @@
+# calcul de polynôme de forme ax2+bx+c et de ax+b=0
